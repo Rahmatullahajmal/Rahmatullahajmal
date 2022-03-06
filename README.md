@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...pandas
 - 💞️ I’m looking to collaborate on ...dont knowe
-- 📫 How to reach me ...lisanig
+- 📫 How to reach me ...kind
+-
 -
 
 <!---
